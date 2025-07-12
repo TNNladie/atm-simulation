@@ -1,4 +1,4 @@
-# ATM Simülasyonu – Python ile Terminal Tabanlı Bankacılık Uygulaması
+# ATM Simülasyonu – Python ile Terminal Tabanlı ATM Uygulaması
 
 Bu proje, Python dilinde geliştirilmiş fonksiyonel ve etkileşimli bir ATM (Automated Teller Machine) simülasyonudur. Kullanıcıdan şifre ile giriş alır, bakiye görüntüleme, para yatırma, para çekme ve işlem geçmişi gibi bankacılık işlemlerini terminal üzerinden gerçekleştirir.
 
